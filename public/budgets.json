@@ -1,0 +1,28 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "amount": 6000.0,
+            "explanation": "Pay Dio due",
+            "category": "Bills",
+            "budget_type": "expense",
+            "date_added": "2022-06-01"
+        },
+        {
+            "id": 2,
+            "amount": 9300.0,
+            "explanation": "Buy new bicycle",
+            "category": "Sports",
+            "budget_type": "expense",
+            "date_added": "2022-06-02"
+        },
+        {
+            "id": 3,
+            "amount": 209.0,
+            "explanation": "Recharge for me",
+            "category": "Communications",
+            "budget_type": "expense",
+            "date_added": "2022-06-10"
+        }
+    ]
+}
