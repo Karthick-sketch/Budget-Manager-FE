@@ -1,0 +1,11 @@
+{
+    "data" : [
+        {
+            "id": 4,
+            "amount": 2300.0,
+            "explanation": "College fees balance",
+            "category": "Deposit",
+            "date_added": "2022-06-13"
+        }
+    ]
+}

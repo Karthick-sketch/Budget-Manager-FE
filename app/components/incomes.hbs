@@ -1,0 +1,12 @@
+<table>
+    <tbody>
+        {{#each @incomes as |income|}}
+            <tr>
+                <td>{{income.category}}</td>
+                <td>{{income.amount}}</td>
+                <td>{{income.explanation}}</td>
+                <td>{{income.date_added}}</td>
+            </tr>
+        {{/each}}
+    </tbody>
+</table>

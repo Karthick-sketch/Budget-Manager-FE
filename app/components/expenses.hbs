@@ -1,0 +1,12 @@
+<table>
+    <tbody>
+        {{#each @expenses as |expense|}}
+            <tr>
+                <td>{{expense.category}}</td>
+                <td>{{expense.amount}}</td>
+                <td>{{expense.explanation}}</td>
+                <td>{{expense.date_added}}</td>
+            </tr>
+        {{/each}}
+    </tbody>
+</table>
