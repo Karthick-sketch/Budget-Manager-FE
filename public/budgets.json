@@ -18,17 +18,10 @@
         },
         {
             "id": 3,
-            "amount": 209.0,
-            "explanation": "Recharge for me",
-            "category": "Communications",
-            "budget_type": "expense",
-            "date_added": "2022-06-10"
-        },
-        {
-            "id": 4,
-            "amount": 62300.0,
+            "amount": 2300.0,
             "explanation": "College fees balance",
             "category": "Deposit",
+            "budget_type": "income",
             "date_added": "2022-06-13"
         }
     ]

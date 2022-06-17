@@ -2,7 +2,7 @@
     "data" : [
         {
             "type" : "expenses",
-            "amount" : "-₹15509",
+            "amount" : "-₹15300",
             "number_type" : "negative"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "type" : "balance",
-            "amount" : "-₹13209",
+            "amount" : "-₹13000",
             "number_type" : "negative"
         }
     ]
